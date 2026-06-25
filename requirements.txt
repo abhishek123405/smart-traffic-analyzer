@@ -1,0 +1,11 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+pillow>=8.0.0
+imutils>=0.5.3
+ttkthemes>=3.0.0
+matplotlib>=3.5.0
+python-dateutil>=2.8.2
+
+# Database connectors (install as needed)
+mysql-connector-python>=8.0.0  # For MySQL connections
+psycopg2-binary>=2.9.0  # For PostgreSQL connections
